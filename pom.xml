@@ -16,5 +16,6 @@
   <modules>
     <module>calculator-console</module>
     <module>calculator-logic</module>
+    <module>calculator-parent</module>
   </modules>
 </project>
